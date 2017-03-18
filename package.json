@@ -36,7 +36,7 @@
     "install": ">= 0.1.7"
   },
   "optionalDependencies": {
-    "whiskey": "0.6.x"
+    "whiskey": "~0.8.4"
   },
   "engines": {
     "node": ">= 0.6"
