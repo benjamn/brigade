@@ -1,5 +1,7 @@
 Brigade
 ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/benjamn/brigade.svg)](https://greenkeeper.io/)
 Brigade flexibly and efficiently bundles CommonJS modules for delivery to a web browser by
 
 1. supporting a declarative syntax for organizing sets of modules,
